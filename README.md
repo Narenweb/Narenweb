@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQHMJtTT8awSYA/profile-displaybackgroundimage-shrink_350_1400/0/1716232181621?e=1721865600&v=beta&t=h2xag2WmHRpK8GnPV_DK6lOQ_WeKtcIN5MCwZQTQ8KY)](https://narenweb.github.io/Personal-Portfolio/)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io](https://narenweb.github.io/Personal-Portfolio/))
 <h1 align="center">Hi 👋, I'm Narayanan😉</h1>
 <h3 align="center">Driven Developer with a Flair for Innovation from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
